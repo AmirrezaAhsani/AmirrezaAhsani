@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AmirrezaAhsani
+- 👀 I’m interested in game design,Js programming and garaphic design
+- 🌱 I’m currently learning python,Js,AI & ML
+- 💞️ I’m looking to collaborate on our team first game to name "Sheperdan",its still develop by Construct3,Nodejs and back-end is under develop by colyseus.io
+- 📫 Im from Iran/Tabriz
